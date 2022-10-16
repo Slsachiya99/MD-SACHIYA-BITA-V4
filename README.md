@@ -1,6 +1,19 @@
 # ❊MD-SACHIYA-BITA-V4 VIP❊
 
+
 <img srcn="https://i.imgur.com/XHhlqtK.jpeg" alt="GIF" width="700"/>
+
+
+
+
+
+
+
+
+
+
+
+
 
 # ❊MD-SACHIYA-BITA-V4 VIP❊
 
@@ -12,7 +25,7 @@
 
 > A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
 > 
-## DONT FORGET TO GIVE A STAR🌟 AND FORK
+## DONT FORGET TO GIVE A STAR❃ AND FORK
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v2)
 
