@@ -1,5 +1,5 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮MD-SACHIYA-BITA-V4 INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -7,8 +7,8 @@
 //▮
 //▮REPORT ABUSE OF ZimBotInc SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US : +94767233346
+//▮YOUTUBE CHANNELL: MD-SACHIYA-BITA-V4
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -16,7 +16,7 @@
 //┃ZimBotInc SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING MD-SACHIYA-BITA-V4
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -33,18 +33,18 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['+94767233346',''] //owner number +27634090203
+global.pemilik = ['+94767233346'] //owner number +27634090203
+global.premium = ['+94767233346'] //premium number +27634090203
+global.pengguna = 'MD-SACHIYA-BITA-V4' //username
+global.footer = 'MD-SACHIYA-BITA-V4'
+global.botnma = 'MD-SACHIYA-BITA-V4' //bot name
+global.ownernma = 'MD-SACHIYA-BITA-V4' //owner name
+global.packname = 'MD-SACHIYA-BITA-V4' //sticker package name
+global.author = 'MD-SACHIYA-BITA-V4' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
-global.sp = '🔵' //sp
+global.sp = '❤️' //sp
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
