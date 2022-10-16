@@ -25,7 +25,7 @@
 
 > A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
 > 
-## DONT FORGET TO GIVE A STAR❃ AND FORK
+## තාරුවක් දාලම බොට් ෆ්‍රොක් කරන්න♲❃❊ FORK ❃♲❊
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v2)
 
@@ -41,13 +41,14 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
 
- ##  > THIS BOT CODED BY DRIPS MEMES ZIM BOT INC 
+ ##  > THIS BOT CODED BY DRIPS MEMES ❊MD-SACHIYA-BITA-V4 VIP❊INC 
 
 
 ## >  FOLLOW STEPS BELOW FOR INSTALLATION
 
 ## >  THIS BOT IT USE MULTI DEVICE BAILEYS
 
+~*ඔයා බොට් හදලා කියන්නකො කොහොමද බොට් හොදද කියලා..*~
 
 ``` 
 apt install nodejs
@@ -71,7 +72,7 @@ npm start
 echo scan the qr code and enjoy bot
 
 ```
-
+~*❊කැමතිනම් එන්න අපෙ whatsapp  ගෘප් වලට❊*~
 
 ## JOIN MY WHATSAPP GROUP
 
@@ -82,5 +83,7 @@ echo scan the qr code and enjoy bot
 # [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
 
 
-# > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
+# > THANKS FOR CHOOSING ❊MD-SACHIYA-BITA-V4 VIP❊ WE APPRECIATE YOU FOR YOUR SUPPORT
  
+
+<img srcn="https://i.imgur.com/XHhlqtK.jpeg" alt="GIF" width="700"/>
