@@ -33,9 +33,9 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['+94767233346',''] //owner number +27634090203
-global.pemilik = ['+94767233346'] //owner number +27634090203
-global.premium = ['+94767233346'] //premium number +27634090203
+global.owner = ['+94718181282',''] //owner number +27634090203
+global.pemilik = ['+94718181282'] //owner number +27634090203
+global.premium = ['+94718181282'] //premium number +27634090203
 global.pengguna = 'MD-SACHIYA-BITA-V4' //username
 global.footer = 'MD-SACHIYA-BITA-V4'
 global.botnma = 'MD-SACHIYA-BITA-V4' //bot name
